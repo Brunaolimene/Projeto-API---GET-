@@ -20,7 +20,7 @@ Projeto API - GET
 📝 As demandas de API solicitadas foram: 
 
 * Uma rota de /series;
-* /series devem retornar todas as series;
+* /series deve retornar todas as series;
 * Filtar por título, id e gênero;
 * Caso o usuário digite o título errado, retornar o erro. 
 
